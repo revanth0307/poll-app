@@ -1,0 +1,26 @@
+.teacher-container {
+  max-width: 600px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.question-box {
+  margin-top: 20px;
+}
+
+.bottom-tools {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.duration-field {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.duration-field label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
